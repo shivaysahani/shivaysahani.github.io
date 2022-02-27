@@ -1,0 +1,35 @@
+body {
+    background-color: #f5f5f5;
+    color: #000000;
+    font-family: 'Coda', cursive;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.5;
+}
+
+.fa-instagram {
+    background: #c13584;
+    color: white;
+}
+
+.fa-twitter {
+    background: #1da1f2;
+    color: white;
+}
